@@ -1,7 +1,8 @@
 # SAW
 Projeto de Segurança de Aplicações Web
 
-#Objetivo
+# Objetivo 
+
 O objetivo do trabalho consiste na elaboração de uma aplicação Web em PHP
 e MySQL que sirva de apoio a uma Gestão da Salas, contendo o seguinte conjunto
 de funcionalidades:
